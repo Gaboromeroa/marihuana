@@ -1,2 +1,0 @@
-# marihuana
-probando bootstrap
